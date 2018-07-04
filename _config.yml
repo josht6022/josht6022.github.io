@@ -1,2 +1,3 @@
 permalink: /blog/:year/:month/:day/:title
+remote_theme:slim-pickins-jekyll-theme
 name: Hank Quinlan, Horrible Cop
